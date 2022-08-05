@@ -6,7 +6,7 @@ We release the code of the View Parsing Networks, the main model for Cross-view 
 ](https://arxiv.org/pdf/1906.03560.pdf)**
 <br />
 [Bowen Pan](http://people.csail.mit.edu/bpan/), 
-[Jiankai Sun](), 
+[Jiankai Sun](https://scholar.google.com/citations?user=726MCb8AAAAJ&hl=en), 
 [Ho Yin Tiga Leung](),
 [Alex Andonian](https://www.alexandonian.com/), and
 [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/)
